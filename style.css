@@ -1,0 +1,23 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+    background-color: royalblue;
+}
+body{
+    background-size: cover;
+    text-align: center;
+}
+#copy_right_footer{
+    background-color: lightblue;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
